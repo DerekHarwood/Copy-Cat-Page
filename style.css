@@ -1,0 +1,41 @@
+header {
+ padding-left: 640px;
+ padding-top: 10px;
+}
+.nav-link {
+    font-size: larger;
+    color: gray;
+    padding-bottom: 100px;
+}
+.nav-link:hover {
+    color: gold;
+  }
+#donuts {
+    width: 243px;
+    height: 243px;
+}
+#donut-quotes {
+    width: 243px;
+    height: 331px;
+}
+div {
+    text-align: center;
+}
+h1, h5, span {
+    text-align: center;
+}
+h1 {
+    font-family: 'Alex Brush', cursive;
+    font-size: 100px;
+}
+h5 {
+    padding-bottom: 10px;
+    font: bold;
+}
+p {
+    padding: 0px;
+    margin: 0px;
+}
+.space {
+    margin: 250px;
+}
